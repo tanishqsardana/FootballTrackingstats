@@ -10,10 +10,4 @@ This project makes use of clips from the DFL - Bundesliga Data Shootout competit
 Here is how the program outputs.
 
 
-https://github.com/tanishqsardana/FootballTrackingstats/assets/24734298/60c3195e-f9b2-4f2a-9a59-256eda1e59f3
-
-
-
-
-
 Try to run the plot_image function again if it doesnt work.
